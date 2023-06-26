@@ -1,0 +1,3 @@
+Un empresario que se dedica a la venta de productos importados, conoce el precio de compra y el precio de venta de sus productos en moneda dólar. Diariamente, realiza sus ventas en pesos argentinos y necesita conocer el precio de venta actualizado según la cotización actual del dólar.
+
+Se le solicita que diseñe y desarrolle una aplicación que permita convertir el precio en dólares de un producto al precio en pesos argentinos. Para conocer la cotización actual del dólar, usted deberá hacer uso de la API https://www.dolarsi.com/api/api.php?type=dolar. El valor del dólar que se toma como referencia es el Oficial para la venta. El empresario le ha dado a conocer un prototipo de la aplicación deseada:

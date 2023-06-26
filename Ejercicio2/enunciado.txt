@@ -1,0 +1,7 @@
+Una empresa de venta de grandes equipos de aire acondicionado, necesita desarrollar una aplicación que le permita el cálculo del IVA (Impuesto al Valor Agregado), sobre el precio base (sin IVA), de cada uno de los aires acondicionados que vende. 
+
+Regla de negocio: el cálculo del IVA se calcula de la siguiente forma:
+    Precio Base*10.5/100 para los artículos grabados con el 10.5%
+    Precio Base * 21/100 para los artículos grabados con el 21%
+    
+El analista funcional de la empresa ha diseñado una interface para llevar a cabo la tarea solicitada, la que se le provee a usted para el desarrollo de la aplicación.

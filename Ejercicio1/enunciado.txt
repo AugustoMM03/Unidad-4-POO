@@ -1,0 +1,15 @@
+Ejercicio 1
+El INDEC, le solicita una aplicación para el cálculo del Índice de Precios al Consumidor (IPC). Para lo que que provee los precios y cantidades para el año 2022 y 2023
+de tres indicadores, Vestimenta, Alimentos y Educación. El cálculo se realiza con las siguiente fórmula:
+
+         Costo de la Canasta Básica Año Actual
+
+IPC=------------------------------------------------------
+
+         Costo de la Canasta Básica Año Base
+
+Para el ambos costos, se multiplica cantidad por el precio del año que corresponda.
+
+Al valor resultante se le quita la parte entera, y se los multiplica por 100 para obtener el IPC porcentual.
+
+El diseñador de la aplicación le provee la interface que se adjunta.

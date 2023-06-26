@@ -1,0 +1,8 @@
+Ejercicio 4
+Modificar la calculadora desarrollada en las clases teóricas de la unidad 4 para que permita operar con números imaginarios de la forma z=9+2i. Esta calculadora debe permitir realizar las 4 operaciones básicas (+,-,*,/).
+
+Notas:
+
+a) Para entender las operaciones con números imaginarios, se sugiere ver el siguiente link: https://www.problemasyecuaciones.com/complejos/sumar-restar-multiplicar-dividir-numeros-complejos-imaginarios-ejemplos-formulas.html
+
+b) La implementación de la calculadora debe hacer uso de una clase Imaginario, que deberá tener sobrecargados los operadores +, -, *, /.
